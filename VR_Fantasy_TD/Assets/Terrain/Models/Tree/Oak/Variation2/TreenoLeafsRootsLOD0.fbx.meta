@@ -1,20 +1,14 @@
 fileFormatVersion: 2
-guid: afe142be0ef2ab6468bab1ef273a4e38
+guid: 43b18bf00aaf3354c821087800ad4e2b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: TreeLeafsLOD0
     400000: //RootNode
-    400002: TreeLeafsLOD0
-    2100000: Leafs
-    2100002: Bark
+    2100000: Bark
     2300000: //RootNode
-    2300002: TreeLeafsLOD0
     3300000: //RootNode
-    3300002: TreeLeafsLOD0
-    4300000: TreeLeafsLOD0
-    2186277476908879412: ImportLogs
+    4300000: TreenoLeafsRootsLOD0
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -71,7 +65,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 0
+    tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0

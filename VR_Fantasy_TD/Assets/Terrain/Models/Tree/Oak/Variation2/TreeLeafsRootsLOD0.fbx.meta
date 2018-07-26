@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: 6c8d4148c7c741f4383dc837d9026083
+guid: 6ec2ef47e8f18324d8b0f308d0ff8211
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Leafs
-    2100002: Bark
+    2100000: Bark
+    2100002: Leafs
     2300000: //RootNode
     3300000: //RootNode
-    4300000: TreeLeafsLOD0
+    4300000: TreeLeafsRootsLOD0
   externalObjects: {}
   materials:
     importMaterials: 1
